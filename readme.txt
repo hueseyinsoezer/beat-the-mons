@@ -10,7 +10,3 @@
 9- Ölüm/ Canlanma (Varsa)/ Ateş efektleri
 ---------Oyunun Geliştirme Opsiyonları--------
 10- Özel skiller (görünmez olma, süreli ölümsüzlük gibi)
---------Basic Gameplay------------------
-x- Non-Player
-y-Player Abilities
-z- Randomness
